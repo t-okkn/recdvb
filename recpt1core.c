@@ -618,7 +618,7 @@ show_channels(void)
 	fprintf(stderr, "141ch: BS Nittele\n");
 	fprintf(stderr, "151ch: BS Asahi\n");
 	fprintf(stderr, "161ch: BS-TBS\n");
-	fprintf(stderr, "171ch: BS Japan\n");
+	fprintf(stderr, "171ch: BS Teretou\n");
 	fprintf(stderr, "181ch: BS Fuji\n");
 	fprintf(stderr, "191ch: WOWOW Prime\n");
 	fprintf(stderr, "192ch: WOWOW Live\n");
